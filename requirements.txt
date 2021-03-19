@@ -13,7 +13,7 @@ docutils==0.14
 greenlet==0.4.12
 idna==2.6
 imagesize==0.7.1
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 pep8==1.7.0
 pkginfo==1.4.1
