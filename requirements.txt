@@ -29,5 +29,5 @@ sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.0.1
 tqdm==4.19.4
 twine==1.9.1
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
